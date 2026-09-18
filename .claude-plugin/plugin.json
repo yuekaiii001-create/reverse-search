@@ -9,6 +9,7 @@
   },
   "homepage": "https://github.com/yuekaiii001/reverse-search",
   "repository": "https://github.com/yuekaiii001/reverse-search",
+  "license": "MIT",
   "keywords": [
     "search",
     "sourcing",

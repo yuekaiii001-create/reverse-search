@@ -10,6 +10,7 @@
       "name": "reverse-search",
       "source": "./",
       "description": "把「帮我找 X」反转成「谁手上已经有 X、而且正在为它发愁」，从而绕开中介、广告和同质化竞争。",
+      "license": "MIT",
       "strict": false,
       "skills": [
         "./skills/reverse-search"
