@@ -1,0 +1,2 @@
+# 统一换行符，避免 Windows 提交的 CRLF 在 macOS / Linux 上产生噪音
+* text=auto eol=lf
