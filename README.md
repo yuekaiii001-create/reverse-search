@@ -31,7 +31,7 @@
 ### 方式一：作为插件安装（推荐）
 
 ```
-/plugin marketplace add yuekaiii001/reverse-search
+/plugin marketplace add yuekaiii001-create/reverse-search
 /plugin install reverse-search@reverse-search
 ```
 

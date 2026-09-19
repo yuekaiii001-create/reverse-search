@@ -1,10 +1,10 @@
 {
   "name": "reverse-search",
   "owner": {
-    "name": "yuekaiii001",
-    "url": "https://github.com/yuekaiii001"
+    "name": "yuekaiii001-create",
+    "url": "https://github.com/yuekaiii001-create"
   },
-  "description": "Claude Code skills by yuekaiii001",
+  "description": "Claude Code skills by yuekaiii001-create",
   "plugins": [
     {
       "name": "reverse-search",

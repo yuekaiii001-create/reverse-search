@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "description": "把「帮我找 X」反转成「谁手上已经有 X、而且正在为它发愁」，从而绕开中介、广告和同质化竞争。",
   "author": {
-    "name": "yuekaiii001",
-    "url": "https://github.com/yuekaiii001"
+    "name": "yuekaiii001-create",
+    "url": "https://github.com/yuekaiii001-create"
   },
-  "homepage": "https://github.com/yuekaiii001/reverse-search",
-  "repository": "https://github.com/yuekaiii001/reverse-search",
+  "homepage": "https://github.com/yuekaiii001-create/reverse-search",
+  "repository": "https://github.com/yuekaiii001-create/reverse-search",
   "license": "MIT",
   "keywords": [
     "search",
