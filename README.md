@@ -2,7 +2,7 @@
 
 > 别搜「去哪找 X」。先问：**谁手上有 X，而且正在为它发愁？**
 
-一个 Claude Code 技能。把「帮我找 X」的请求反转成「谁手上已经有 X、而且正在为它发愁」，从而绕开中介、广告和同质化竞争。
+把「帮我找 X」的请求反转成「谁手上已经有 X、而且正在为它发愁」，从而绕开中介、广告和同质化竞争。
 
 > Reframe a "help me find X" request into "who already has X and is anxious about it".
 
