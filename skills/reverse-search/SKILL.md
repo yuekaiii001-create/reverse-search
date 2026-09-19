@@ -1,6 +1,6 @@
 ---
 name: reverse-search
-description: Reframe a "help me find X" request (housing, job, customer, supplier, partner, second-hand goods, opportunity, solution) into "who already has X and is anxious about it". Use when the user is about to search for a resource and direct search would run into agencies, ads, or heavy competition. Locates anxious supply-side actors, finds where they publicly air the problem, and plans a transparent approach. Not for deception, harassment, platform-rule evasion, or exploiting people in distress.
+description: 把「帮我找 X」类请求反转为「谁手上有 X、而且正在为它发愁」，从需求方位置换到供给方位置，绕开中介、广告和同质化竞争。当用户说「帮我找 / 去哪找 / 怎么找 X / 我想买 / 我想要 / 我需要 」、且直接搜索会撞上中介、广告或激烈竞争时使用，覆盖找房租房、找工作、招人、找客户、找供应商货源、找合作伙伴、二手、转让、库存清仓、拍卖等场景；也用于用户已搜过一轮并反馈「全是中介」「全是广告」「都长得一样」。不用于普通事实检索、用户已给出具体链接、或供给方稀缺不愁卖的领域。Reframe a "help me find X" request into "who already has X and is anxious about it" — locate anxious supply-side actors, find where they publicly air the problem, and plan a transparent approach. Not for deception, harassment, platform-rule evasion, or exploiting people in distress.
 ---
 
 # 逆向需求穿透
