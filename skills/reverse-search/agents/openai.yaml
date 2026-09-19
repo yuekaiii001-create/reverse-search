@@ -1,0 +1,3 @@
+interface:
+  display_name: "Reverse Search · 逆向需求穿透"
+  short_description: "把「帮我找 X」反转成「谁手上有 X 且正在发愁」"

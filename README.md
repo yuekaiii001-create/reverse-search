@@ -30,16 +30,19 @@
 
 ## 安装
 
-### 方式一：作为插件安装（推荐）
+技能本体就是一个通用的 `SKILL.md` 目录，Claude Code 和 Codex 读的是**同一份文件**，
+不用改写、不用分叉。两边唯一的差别只是安装位置。
+
+### Claude Code
+
+**方式一：作为插件安装（推荐）**
 
 ```
 /plugin marketplace add yuekaiii001-create/reverse-search
 /plugin install reverse-search@reverse-search
 ```
 
-### 方式二：手动拷贝
-
-把这个仓库里的 `skills/reverse-search/` 整个目录拷到你的个人技能目录：
+**方式二：手动拷贝**
 
 ```powershell
 # Windows
@@ -50,6 +53,23 @@ Copy-Item -Recurse .\skills\reverse-search "$HOME\.claude\skills\"
 # macOS / Linux
 cp -r ./skills/reverse-search ~/.claude/skills/
 ```
+
+### Codex
+
+同一个目录，换个安装位置即可：
+
+```powershell
+# Windows
+Copy-Item -Recurse .\skills\reverse-search "$HOME\.codex\skills\"
+```
+
+```bash
+# macOS / Linux
+cp -r ./skills/reverse-search ~/.codex/skills/
+```
+
+Codex 会在启动时扫描 `~/.codex/skills/`，之后用 `$reverse-search` 显式调用，或直接说需求让它
+按 description 自动触发。
 
 ## 使用
 
